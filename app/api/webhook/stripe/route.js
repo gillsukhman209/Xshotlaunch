@@ -63,7 +63,7 @@ export async function POST(req) {
           plan.name.toLowerCase() === "monthly"
             ? 500
             : plan.name.toLowerCase() === "yearly"
-            ? 1500
+            ? 150000
             : 10; // Free plan default
 
         await user.save();
@@ -88,7 +88,7 @@ export async function POST(req) {
           plan.name.toLowerCase() === "monthly"
             ? 500
             : plan.name.toLowerCase() === "yearly"
-            ? 1500
+            ? 150000
             : 10;
 
         await user.save();
@@ -126,7 +126,7 @@ export async function POST(req) {
           plan.name.toLowerCase() === "monthly"
             ? 500
             : plan.name.toLowerCase() === "yearly"
-            ? 1500
+            ? 150000
             : 10;
         await user.save();
 

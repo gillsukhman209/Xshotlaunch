@@ -10,7 +10,6 @@ import FAQ from "@/components/FAQ";
 import { renderSchemaTags } from "@/libs/seo";
 import Footer from "@/components/Footer";
 import Testimonials3 from "@/components/Testimonials3";
-import Link from "next/link";
 
 export default function Home() {
   const { data: session, status } = useSession();

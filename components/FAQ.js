@@ -27,9 +27,7 @@ const faqList = [
     question: "Can I customize my screenshots?",
     answer: (
       <div className="space-y-2 leading-relaxed">
-        Absolutely! You can change backgrounds, fonts, aspect ratios, and even
-        add branding elements like watermarks or overlays to make your
-        screenshots stand out.
+        Absolutely! You can hide likes, comments, bookmarks, and retweets.
       </div>
     ),
   },
