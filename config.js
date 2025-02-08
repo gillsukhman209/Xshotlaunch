@@ -18,7 +18,7 @@ const config = {
     // Create multiple plans in your Stripe dashboard, then add them here.
     plans: [
       {
-        priceId: "price_1QooCORS6Dh7OtvxL1EcfDHi",
+        priceId: "price_1Qq3WKId2KNrsfUdFznNhqWS",
         name: "Free",
         description: "10 screenshots/month with a small watermark.",
         price: 0,
@@ -30,7 +30,7 @@ const config = {
       },
       {
         isFeatured: true,
-        priceId: "price_1QooCmRS6Dh7OtvxaOX7Oh8B",
+        priceId: "price_1Qq3WpId2KNrsfUdh13DfWqi",
         name: "Monthly",
         description: "500 screenshots/month, no watermark. Cancel anytime!",
         price: 9.99,
@@ -42,7 +42,7 @@ const config = {
       },
       {
         isFeatured: false,
-        priceId: "price_1QooDTRS6Dh7OtvxCIvyBN6B",
+        priceId: "price_1Qq3X8Id2KNrsfUdheMZY8ET",
         name: "Yearly",
         description: "Unlimited screenshots, no watermark. Cancel anytime!",
         price: 89.99,
