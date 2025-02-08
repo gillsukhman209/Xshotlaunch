@@ -81,8 +81,7 @@ const Testimonials3 = () => {
           </div>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base text-base-content/80">
             Don&apos;t just take our word for it. See how our users are
-            effortlessly transforming tweets and Instagram posts into
-            share-worthy content.
+            effortlessly transforming tweets into share-worthy content.
           </p>
         </div>
 

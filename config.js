@@ -5,7 +5,7 @@ const config = {
   appName: "XShot",
   // REQUIRED: a short description of your app for SEO tags (can be overwritten)
   appDescription:
-    "XShot is a sleek tool that lets users capture and customize high-quality screenshots of Instagram and Twitter posts. With flexible pricing plans, watermark-free options, and future video integration, XShot is perfect for content creators and social media enthusiasts.",
+    "XShot is a sleek tool that lets users capture and customize high-quality screenshots of Twitter posts. With flexible pricing plans, watermark-free options, and future video integration, XShot is perfect for content creators and social media enthusiasts.",
   // REQUIRED (no https://, not trialing slash at the end, just the naked domain)
   domainName: "xshot",
   crisp: {

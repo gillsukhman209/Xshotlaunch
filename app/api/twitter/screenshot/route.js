@@ -33,9 +33,9 @@ export async function POST(req) {
       return Response.json({ error: "User not found" }, { status: 404 });
     }
 
-    if (!url.includes("x.com") && !url.includes("instagram.com")) {
+    if (!url.includes("x.com")) {
       return Response.json(
-        { error: "Invalid URL. Only Twitter & Instagram are supported." },
+        { error: "Invalid URL. Only Twitter URL's are supported." },
         { status: 400 }
       );
     }

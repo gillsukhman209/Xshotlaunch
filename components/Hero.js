@@ -14,9 +14,8 @@ const Hero = () => {
           <span className="block">Stunning Screenshots.</span>
         </h1>
         <p className="text-lg opacity-80 leading-relaxed">
-          Easily capture and customize high-quality screenshots of Instagram and
-          Twitter posts. Add themes, remove watermarks, and make your content
-          stand out.
+          Easily capture and customize high-quality screenshots of Twitter
+          posts. Add themes, remove watermarks, and make your content stand out.
         </p>
 
         {session && session.user ? (

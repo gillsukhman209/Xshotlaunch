@@ -42,7 +42,7 @@ These Terms of Service ("Terms") govern your use of the XShot website at https:/
 
 1. Description of XShot
 
-XShot is a platform that allows users to capture, customize, and download high-quality screenshots of Twitter and Instagram posts.
+XShot is a platform that allows users to capture, customize, and download high-quality screenshots of Twitter posts.
 
 2. Ownership and Usage Rights
 

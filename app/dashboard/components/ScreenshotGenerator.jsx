@@ -77,7 +77,7 @@ const ScreenshotGenerator = ({ user }) => {
         {/* ✅ Input field for URL */}
         <input
           type="text"
-          placeholder="Enter Tweet or Instagram Post URL"
+          placeholder="Enter Tweet URL"
           value={url}
           onChange={(e) => setUrl(e.target.value)}
           className="input input-bordered input-primary border-2  w-full p-4 mt-4 "

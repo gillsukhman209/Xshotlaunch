@@ -8,8 +8,8 @@ const faqList = [
     answer: (
       <div className="space-y-2 leading-relaxed">
         XShot is a tool that allows you to capture and customize high-quality
-        screenshots of Instagram and Twitter posts. Enhance your content with
-        stylish backgrounds, custom fonts, and watermark-free exports.
+        screenshots of Twitter posts. Enhance your content with stylish
+        backgrounds, custom fonts, and watermark-free exports.
       </div>
     ),
   },
