@@ -23,7 +23,7 @@ const ButtonCheckout = ({
       const res = await apiClient.post("/stripe/create-checkout", {
         priceId,
         mode,
-        successUrl: "http://localhost:3000/dashboard",
+        successUrl: "https://xshot.vercel.app/dashboard",
         cancelUrl: window.location.href,
       });
 
