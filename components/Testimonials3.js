@@ -37,7 +37,7 @@ const Testimonial = ({ i }) => {
         <figcaption className="relative flex items-center justify-start gap-4 pt-4 mt-4 md:gap-8 md:pt-8 md:mt-8 border-t border-base-content/5">
           <div className="w-full flex items-center justify-between gap-2">
             <div>
-              <div className="font-medium text-base-content md:mb-0.5 text-primary">
+              <div className="font-medium  md:mb-0.5 text-primary">
                 {testimonial.name}
               </div>
               {testimonial.username && (
